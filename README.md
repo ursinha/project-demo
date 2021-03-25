@@ -1,1 +1,1 @@
-This is just an example project.
+This is just an example project of an API.
